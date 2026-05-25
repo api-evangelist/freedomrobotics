@@ -1,0 +1,87 @@
+aid: freedomrobotics
+name: Freedom Robotics
+description: >-
+  Freedom Robotics is a San Francisco-based robotics infrastructure company
+  founded in 2017 that builds mission-critical software to help robotics
+  companies build, operate, support, and scale heterogeneous robot fleets. Its
+  cloud platform — sometimes referred to as Mission Control — provides device
+  and fleet management, remote teleoperation (Pilot), live data streaming,
+  smart alerts and notifications, fleet maps and heatmaps, deployment and
+  service management, remote development, and analytics across cobots,
+  industrial robots, AMRs, drones, and custom hardware. The platform is robot-
+  and OS-agnostic, installs on a device in seconds via a single-line Freedom
+  Agent installer, and integrates with ROS, ROS 2, Python, microcontrollers,
+  Protobuf, Docker, and the cloud offerings of AWS, Google Cloud, and Azure.
+  Freedom exposes a public REST API at api.freedomrobotics.ai covering
+  accounts, devices, alerts, statistics, uploads, tokens, users, user groups,
+  and zones, plus a Python SDK (freedomrobotics.link) with Link, MicroLink,
+  message, log, image, and command-callback primitives for programmatic
+  control and telemetry of large numbers of robots. The company has raised
+  approximately $17M in venture funding and operates on a per-robot
+  subscription model (publicly cited at roughly $300 per robot per month) with
+  custom enterprise plans negotiated through sales.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Robotics
+  - Robot Fleet Management
+  - Fleet Operations
+  - Robotics Infrastructure
+  - Remote Teleoperation
+  - Robotics Observability
+  - ROS
+  - ROS 2
+  - Device Management
+  - Deployment Management
+  - Cobots
+  - AMR
+  - Drones
+  - Industrial Robots
+  - Embodied AI
+url: https://raw.githubusercontent.com/api-evangelist/freedomrobotics/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.freedomrobotics.com
+  - type: Platform
+    url: https://www.freedomrobotics.com/robotics-fleet-management-platform
+  - type: Documentation
+    url: https://docs.freedomrobotics.ai
+  - type: GettingStarted
+    url: https://docs.freedomrobotics.ai/docs/overview-mission-control
+  - type: APIReference
+    url: https://docs.freedomrobotics.ai/reference
+  - type: APIBaseURL
+    url: https://api.freedomrobotics.ai/
+  - type: PythonSDK
+    url: https://docs.freedomrobotics.ai/docs/python-module-1
+  - type: ROSIntegration
+    url: https://docs.freedomrobotics.ai/docs/connect-with-python
+  - type: MicrocontrollerSDK
+    url: https://docs.freedomrobotics.ai/docs/freedom-for-microcontrollers
+  - type: MultiRobotAPI
+    url: https://docs.freedomrobotics.ai/docs/multi-robot-programmatic-access
+  - type: AgentInstall
+    url: https://docs.freedomrobotics.ai/docs/install
+  - type: Changelog
+    url: https://docs.freedomrobotics.ai/changelog
+  - type: LLMsTxt
+    url: https://docs.freedomrobotics.ai/llms.txt
+  - type: Support
+    url: https://docs.freedomrobotics.ai/docs/contact-us
+  - type: GitHub
+    url: https://github.com/frdmrobotics
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/freedomrobotics
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/freedom-robotics
+  - type: PitchBook
+    url: https://pitchbook.com/profiles/company/277361-11
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
