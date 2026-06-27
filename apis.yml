@@ -68,9 +68,9 @@ common:
     url: https://docs.freedomrobotics.ai/docs/multi-robot-programmatic-access
   - type: AgentInstall
     url: https://docs.freedomrobotics.ai/docs/install
-  - type: Changelog
+  - type: ChangeLog
     url: https://docs.freedomrobotics.ai/changelog
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://docs.freedomrobotics.ai/llms.txt
   - type: Support
     url: https://docs.freedomrobotics.ai/docs/contact-us
